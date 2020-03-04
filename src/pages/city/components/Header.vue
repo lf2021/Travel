@@ -14,7 +14,7 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-@import '~styles/variables.styl'
+  @import '~styles/variables.styl'
   .header
     overflow hidden
     height $headerHeight
