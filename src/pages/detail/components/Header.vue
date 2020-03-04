@@ -75,6 +75,7 @@ export default {
     color #fff
     text-align center
     font-size .32rem
+    z-index 2
     .header-fixed-back
       position absolute
       left 0
