@@ -12,6 +12,7 @@ import 'styles/border.css'
 import 'styles/iconfont.css'
 import 'swiper/dist/css/swiper.css'
 
+Vue.config.devtools = true
 Vue.config.productionTip = false
 fastclick.attach(document.body)
 Vue.use(VueAwesomeSwiper)
