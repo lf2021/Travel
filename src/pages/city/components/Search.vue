@@ -63,7 +63,7 @@ export default {
         return
       }
       if (this.timer) {
-        clearTimeout(this.time)
+        clearTimeout(this.timer)
       }
       setTimeout(() => {
         const result = []
